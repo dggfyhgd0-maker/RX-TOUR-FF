@@ -1,6 +1,0 @@
-{
-  "name": "RX TOUR BD",
-  "description": "Mobile-first esports tournament platform with match lobbies, room access, wallet management, and admin controls.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
